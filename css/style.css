@@ -308,7 +308,7 @@ button {
      background-size: 100% 100%;
      background-position: center;
      background-repeat: no-repeat;
-     min-height: 804px;
+     min-height: 604px;
      padding-top: 17%;
 }
 
@@ -651,7 +651,7 @@ button {
 #design .carousel-control-next:hover,
 #design .carousel-control-prev:focus,
 #design .carousel-control-next:focus {
-     background: #16d316;
+     background: darkgray;
      color: #000;
 }
 
